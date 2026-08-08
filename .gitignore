@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database
+expense.db
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml
