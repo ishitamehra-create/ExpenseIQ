@@ -80,6 +80,35 @@ ExpenseIQ/
 
 ---
 
+
+## 📸 Application Screenshots
+
+### 🏠 Dashboard
+
+The ExpenseIQ dashboard provides a quick overview of total income, expenses, balance, and monthly financial activity.
+
+![ExpenseIQ Dashboard](assets/screenshots/dashboard.png)
+
+### 💵 Income Management
+
+Users can add and manage income records by specifying the amount, source, and date.
+
+![Income Management](assets/screenshots/income.png)
+
+### 💸 Expense Management
+
+Users can record expenses, categorize spending, and maintain expense history.
+
+![Expense Management](assets/screenshots/expense.png)
+
+### 📊 Reports & Analytics
+
+The reports section provides financial summaries, filters, and analytics to understand spending and income patterns.
+
+![Reports & Analytics](assets/screenshots/reports.png)
+
+---
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
